@@ -1,5 +1,5 @@
 # 👋 Hi, I’m `Deepanshu Prasad`
-Contact me through mail @ 
+Contact me through e-mail @ 
 [deepanshuprasad20@gmail.com](deepanshuprasad20@gmail.com), [u19ee070@eed.svnit.ac.in](u19ee070@eed.svnit.ac.in)
 
 <!---
