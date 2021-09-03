@@ -8,7 +8,7 @@ Contact me through e-mail @
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dpansu20&hide=stars,issues&count_private=true&show_icons=true&theme=calm" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpansu20&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpansu20&layout=compact&langs_count=6&exclude_repo=realworld,public-apis,aero-forked,chemical-forked,drishti-forked,civil-forked,innovation-forked,aiml-forked,robocon-forked,rover-forked&hide=less&theme=buefy" />
 </a>
 
 <!---
