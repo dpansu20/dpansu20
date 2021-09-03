@@ -4,7 +4,12 @@ Contact me through e-mail @
 
 &nbsp;  
 
-[![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpansu20)]()
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dpansu20&hide=stars,issues&count_private=true&show_icons=true&theme=calm" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpansu20&layout=compact" />
+</a>
 
 <!---
 dpansu20/dpansu20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
